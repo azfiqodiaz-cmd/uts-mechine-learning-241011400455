@@ -22,4 +22,4 @@
 3. Buka notebook lalu pilih **Run All**.
 4. scikit-learn hanya dipakai pada bagian bonus.
 
-Catatan: pastikan kelas Reg B atau Reg C dipilih sesuai kelas resmi sebelum dikumpulkan. Periksa kembali seluruh output setelah menjalankan ulang notebook di lingkungan sendiri.
+
